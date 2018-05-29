@@ -7,4 +7,4 @@ image: null
 author: null
 ---
 
-We've provided data advisory and execution for clients across industry and business life-cycle: from 2-person Y Combinator startups to companies earning $100mm+ annually. In each interaction, our empathic approach and diverse skill set allows us to architect a custom solution that lasts.
+We provide data advising and execution services for clients across all industries and business life-cycles: from 2-person Y Combinator startups to publicly traded organizations with $500MM+ in annual revenue. In each interaction, our empathic approach and diverse skill set allows us to architect a custom solution that lasts.
