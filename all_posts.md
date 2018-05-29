@@ -4,7 +4,7 @@ title: Past projects
 landing-title: 'Past projects'
 nav-menu: true
 description: null
-image: null
+image: assets/images/pic03.jpg
 author: null
 ---
 
