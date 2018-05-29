@@ -11,7 +11,7 @@ city: New York
 state: NY
 zip_code: 10031
 country: United States of America
-phone: (111) 111-1111
+# phone: (111) 111-1111
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -21,13 +21,13 @@ tiles-count: 2
 500px_url:
 facebook_url:
 github_url:
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
-instagram_url: https://instagram.com
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+gitlab_url: 
+googleplus_url: 
+instagram_url: 
+linkedin_url: 
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+twitter_url:
 
 # build settings
 markdown: kramdown
